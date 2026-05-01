@@ -1,6 +1,6 @@
 <h1 align="center">mariamjensen42</h1>
 
-<p align="center"><strong>Senior .NET Developer</strong> · Avalonia UI Contributor</p>
+<p align="center"><strong>Senior .NET Developer</strong> · Cross-Platform Desktop Apps</p>
 
 <p align="center">
   <img src="https://komarev.com/ghprofile/?username=mariamjensen42-glitch&style=flat-square&color=238636&label=Profile+Views">
@@ -12,7 +12,7 @@
 
 ### About
 
-.NET 开发者，专注于桌面应用与跨平台 UI 开发。Avalonia UI 核心贡献者，热爱 MVVM 架构与响应式编程。用 C# 和 XAML 构建优雅、高性能的桌面应用。
+.NET 开发者，专注于桌面应用与跨平台 UI 开发。喜欢用 Avalonia UI 构建桌面应用，日常使用 MVVM + ReactiveUI 架构模式。
 
 ---
 
