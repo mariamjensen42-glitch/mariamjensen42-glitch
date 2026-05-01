@@ -17,15 +17,7 @@
 
 <div align="center">
 
-| | |
-|:--:|:--:|
-| ![Profile Summary](https://github-readme-profile-zeta-five.vercel.app/api?username=mariamjensen42-glitch&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&rank=true&locale=cn) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mariamjensen42-glitch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&hide_border=false&locale=cn) |
-| **Contribution Heatmap** | **Activity Graph** |
-
-</div>
-
-<div align="center">
-
+![Profile Summary](https://github-readme-profile-zeta-five.vercel.app/api?username=mariamjensen42-glitch&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&rank=true&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamjensen42-glitch&layout=donut&langs_count=8&theme=transparent&hide_border=true&locale=cn&size_weight=0.5&count_weight=0.5&title_color=58a6ff&text_color=c9d1d9)
 ![Streak](https://streak-stats.demolab.com/?user=mariamjensen42-glitch&theme=transparent&locale=cn&mode=weekly&type=svg&hide_border=true&fire=38bdf8&ring=58a6ff&current=stripes&count=4)
 
@@ -110,14 +102,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Language Breakdown
-
-<!--START_SECTION:toplangs-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamjensen42-glitch&layout=donut&langs_count=6&theme=transparent&hide_border=true&locale=cn&size_weight=0.5&count_weight=0.5)
-<!--END_SECTION:toplangs-->
 
 ---
 
